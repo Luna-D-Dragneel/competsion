@@ -16,7 +16,7 @@
 }
 
 .jumbotron {
-  background-image: url('../images/fruit-and-veg.jpg');
+  background-image: url('../images/book-on-desk.jpg');
   background-size: cover;
   background-attachment: fixed;
   min-height: 600xp;
@@ -28,4 +28,7 @@
 
 body {
   padding-top:70px;
+}
+h2 {
+
 }
